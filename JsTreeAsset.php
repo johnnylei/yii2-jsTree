@@ -1,5 +1,5 @@
 <?php
-namespace johnnylei\jstree\jsTree;
+namespace johnnylei\jstree;
 use yii\web\AssetBundle;
 
 /**

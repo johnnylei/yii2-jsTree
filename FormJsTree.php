@@ -6,7 +6,7 @@
  * Time: 上午1:04
  */
 
-namespace johnnylei\jstree\jsTree;
+namespace johnnylei\jstree;
 
 
 use yii\base\Widget;

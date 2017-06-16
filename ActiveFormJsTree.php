@@ -6,7 +6,7 @@
  * Time: 上午12:27
  */
 
-namespace johnnylei\jstree\jsTree;
+namespace johnnylei\jstree;
 
 
 use yii\widgets\InputWidget;
